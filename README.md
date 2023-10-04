@@ -1,6 +1,5 @@
 **Covid-19 Detection using Deep Learning from CT Scans**
 
-Overview
 The "Covid-19 Detection using Deep Learning from CT Scans" project is a cutting-edge solution for the automated detection of Covid-19 using computed tomography (CT) scans. Leveraging the power of deep learning techniques, this project aims to assist medical professionals in diagnosing Covid-19 cases rapidly and accurately, particularly when CT scans are available.
 
 Key Features
